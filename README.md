@@ -1,21 +1,22 @@
 # React-Job-Board
 
-#### Authors: Joshua Masters, Luis Enrique Rodriguez
+#### Authors: Joshua Ian Masters, Luis Enrique Rodriguez
 
 ## Summary
 
 A React job board app using RapidAPI JSearch to aggregate and display job listings from various platforms, allowing users to search, filter, and view detailed job information.
 
-| Dates      | JM      | LER |
-|------------|---------|-----|
-| 09/25/2024 |         |
-|            |         |
-|            |         |
+| Meeting Dates | JIM | LER |
+|---------------|-----|-----|
+| 09/25/2024    | 2   | 2   |
+| 09/27/2024    |     |     |
+| 10/02/2024    |     |     |
 
 ## Contributions
 
-### Joshua Masters
+### Joshua Ian Masters
 * 
+
 ### Luis Enrique Rodriguez
 * 
 
