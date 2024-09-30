@@ -22,7 +22,7 @@ A React job board app using RapidAPI JSearch to aggregate and display job listin
 
 ### September 30, 2024
 * Joshua Ian Masters
-    * Touched up the website's appearance by adding a dark mode toggle. Added on the app's ability to web scrape.
+    * Touched up the website's appearance by adding a dark mode toggle.
 * Luis Enrique Rodriguez
     * Researched on web integrations using web scraping, allowing the app to function without an API.
 
